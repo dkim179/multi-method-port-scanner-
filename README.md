@@ -83,7 +83,7 @@ nmap -v
 ▶️ How to Use
 ## Clone or download this repository:
 
-git clone https://github.com/YOUR_USERNAME/nmap-wrapper.git
+git clone https://github.com/dkim179/multi-method-port-scanner-.git
 cd nmap-wrapper
 
 ## Run the Python script:python nmap-wrapper.py

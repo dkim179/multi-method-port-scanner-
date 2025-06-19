@@ -1,0 +1,14 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor config
+.vscode/
+
+# Output files
+scan_results.txt
+nmap_scan_*.txt
+
+# System files
+.DS_Store
+Thumbs.db
